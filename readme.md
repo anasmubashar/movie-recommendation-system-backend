@@ -156,12 +156,4 @@ For detailed API specifications and examples, refer to the attached **API Docume
 - Add support for **multi-language movie descriptions**.
 - Enable real-time notifications using **Socket.IO**.
 
----
 
-## Contributions
-
-We welcome contributions to improve this project. Please fork the repository, create a feature branch, and submit a pull request.
-
----
-
-Let me know if you'd like any additional sections or adjustments!
